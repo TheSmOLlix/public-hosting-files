@@ -1,1 +1,1 @@
-[v2512a] -New Map [br] -Settings Menu [br] -*VHS Effect [br] [hex:ff0000]**--remove bugs--**
+[v2512b] [b][color=#FF4444]Update 2512b[/color][/b][br] [color=#66FF66]NEW:[/color] Added new map[color=#AAAAAA] • [/color]Added three new [color=#FF3333][b]Intruder[/b][/color]-type anomalies[br] [color=#66AAFF]SYSTEM [/color] Introduced new version format: [color=#FFFF00][b]v(year).(month).(letter compilation)[/b][/color] [color=#AAAAAA](e.g. v2025.12.ab)[/color]
